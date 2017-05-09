@@ -4,6 +4,7 @@ import Chart from '../components/chart';
 import GoogleMap from '../components/google-map';
 
 class WeatherList extends Component {
+  
   constructor(props) {
     super(props);
   }
